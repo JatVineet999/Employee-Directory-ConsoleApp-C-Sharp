@@ -1,0 +1,88 @@
+{
+  "EmployeeRecords": [
+    {
+      "FirstName": "Vineet",
+      "LastName": "Pilania",
+      "MobileNumber": "7280083999",
+      "Email": "vip@gmail.com",
+      "DateOfBirth": "2001-06-27T00:00:00",
+      "JoiningDate": "2024-01-18T00:00:00",
+      "Location": "Hyderabad",
+      "JobTitle": "Full-stack Developer",
+      "Department": "Software-Development",
+      "ManagerName": "KoniAruva",
+      "ProjectName": "EmployeeDirectory",
+      "EmployeeNumber": "TZ7504"
+    },
+    {
+      "FirstName": "Sahil",
+      "LastName": "Pilania",
+      "MobileNumber": "9543243242",
+      "Email": "dad@g.com",
+      "DateOfBirth": "2012-05-05T00:00:00",
+      "JoiningDate": "2015-06-04T00:00:00",
+      "Location": "Ranchi",
+      "JobTitle": "UI Designer",
+      "Department": "UI/UX",
+      "ManagerName": "Shiva Kumar",
+      "ProjectName": "TravelWebsite",
+      "EmployeeNumber": "TZ5324"
+    },
+    {
+      "FirstName": "Aman",
+      "LastName": "sinha",
+      "MobileNumber": "7827409827",
+      "Email": "asdad@l.com",
+      "DateOfBirth": "2012-04-09T00:00:00",
+      "JoiningDate": "2015-06-04T00:00:00",
+      "Location": "Pune",
+      "JobTitle": "UX Coder",
+      "Department": "UI/UX",
+      "ManagerName": "KoniAruva",
+      "ProjectName": "TravelWebsite",
+      "EmployeeNumber": "TZ2973"
+    },
+    {
+      "FirstName": "Yash",
+      "LastName": "Singh",
+      "MobileNumber": "9388239224",
+      "Email": "dasfsda@yash.com",
+      "DateOfBirth": "2012-06-04T00:00:00",
+      "JoiningDate": "2012-05-06T00:00:00",
+      "Location": "Bangalore",
+      "JobTitle": "UI Designer",
+      "Department": "UI/UX",
+      "ManagerName": "Suresh",
+      "ProjectName": "EmployeeDirectory",
+      "EmployeeNumber": "TZ4833"
+    },
+    {
+      "FirstName": "Sarjeet",
+      "LastName": "Pilania",
+      "MobileNumber": "9857382743",
+      "Email": "ashu@gmail.com",
+      "DateOfBirth": "2000-04-05T00:00:00",
+      "JoiningDate": "2020-05-04T00:00:00",
+      "Location": "Pune",
+      "JobTitle": "UI Designer",
+      "Department": "UI/UX",
+      "ManagerName": "Suresh Kumar",
+      "ProjectName": "Travelpro",
+      "EmployeeNumber": "TZ3661"
+    }
+  ],
+  "DepartmentsAndRoles": [
+    {
+      "Name": "UI/UX",
+      "Roles": ["UI Designer", "UX Designer"]
+    },
+    {
+      "Name": "Software-Development",
+      "Roles": [
+        "Software-Development Engineer",
+        "Full-stack Developer",
+        "Software Tester"
+      ]
+    }
+  ]
+}
